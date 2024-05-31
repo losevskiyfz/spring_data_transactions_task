@@ -1,6 +1,6 @@
-package com.losevskiyfz.springdatatransactionstask.transactionservice.bootstrap;
+package com.losevskiyfz.springdatatransactionstask.bootstrap;
 
-import com.losevskiyfz.springdatatransactionstask.transactionservice.outer.TransactionalOuterService;
+import com.losevskiyfz.springdatatransactionstask.transactionservice.TransactionalOuterService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.aop.framework.AopProxyUtils;

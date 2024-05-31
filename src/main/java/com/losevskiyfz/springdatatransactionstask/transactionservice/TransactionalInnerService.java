@@ -1,6 +1,5 @@
-package com.losevskiyfz.springdatatransactionstask.transactionservice.inner;
+package com.losevskiyfz.springdatatransactionstask.transactionservice;
 
-import com.losevskiyfz.springdatatransactionstask.transactionservice.outer.TransactionalOuterService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Component;
